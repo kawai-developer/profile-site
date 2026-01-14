@@ -1,0 +1,1 @@
+// This file is currently not used. All logic is in script.js and index.html.
